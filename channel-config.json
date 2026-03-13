@@ -1,0 +1,22 @@
+{
+  "channels": {
+    "1481519102307733604": {
+      "type": "basecamp_project",
+      "project_name": "Digital Lagoon",
+      "channel_name": "digital-lagoon",
+      "created_at": "2026-03-12T05:09:36.070681"
+    },
+    "1481519055356559394": {
+      "type": "basecamp_project",
+      "project_name": "360 Web Designs",
+      "channel_name": "360-web-designs",
+      "created_at": "2026-03-13T04:40:35.792770"
+    },
+    "1481519155785240596": {
+      "type": "client",
+      "name": "Lemon Head Design",
+      "channel_name": "lemon-head-design",
+      "created_at": "2026-03-12T05:10:30.763579"
+    }
+  }
+}
